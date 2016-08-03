@@ -8,15 +8,3 @@
 <h1>Bem vindo!</h1>
 </body>
 </html>
-
-<!DOCTYPE html>
-<html>
-<head>
-<metacharset="utf-8"/>
-<title>GitHub for Windows</title>
-</head>
-<body>
-<h1>Bem vindo!</h1>
-<p>Alteracao qualquer</p>
-</body>
-</html>
